@@ -1,4 +1,4 @@
-public class Bridge {
+public class BridgeSample {
     public static void main(String[] args) {
         Vehicle audiCar = new Car(new Audi());
         audiCar.drive();

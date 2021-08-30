@@ -1,4 +1,4 @@
-public class Adapter {
+public class AdapterSample {
     public static void main(String[] args) {
         AmericanSocket americanSocket = new SimpleAmericanSocket();
         Radio radio = new Radio();
